@@ -1,16 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK Bot",
+    "username": "24/7 Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "testworld00123.aternos.me"
-  },  
+    "ip": "testworld00123.aternos.me" 
     "port": 40589,
-    "version": "1.21.11",
-    "try-creative": true
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -41,6 +39,7 @@
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
+    }
   },
   "movement": {
     "enabled": true,
@@ -48,7 +47,7 @@
       "enabled": true,
       "radius": 4,
       "speed": 3000
-    },
+  },
     "look-around": {
       "enabled": true,
       "interval": 5000
